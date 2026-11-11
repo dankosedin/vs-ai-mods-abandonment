@@ -1,0 +1,10 @@
+# Private data (never committed): a directory junction or folder with the raw extract, see README.md
+data/private/
+data/private
+
+# Logs, temporary files, local work folders
+*.log
+*.tmp
+tmp/
+temp/
+ModDBResearch-repro-*/
